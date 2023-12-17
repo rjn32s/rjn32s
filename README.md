@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! My name is Rajan Shukla </h2>
-<h3 align="left">I'm a Senior Software Engineer</h3>
-<h3 align="left"> MTech IIT Mandi</h3>
+<h3 align="left">Work: Senior Software Engineer @LTIMindtree</h3>
+<h3 align="left">Education:  IIT Mandi</h3>
 
 
 
 ###
-
+<h4>My Skills</h4>
 <img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
