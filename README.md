@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Rajan Shukla and I'm a Senior Software Engineer, studied from IIT Mandi</h2>
-
-###
+<h2 align="left">Hi 👋! My name is Rajan Shukla </h2>
+<h3 align="left">I'm a Senior Software Engineer</h3>
+<h3 align="left"> MTech IIT Mandi</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rjn32s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
