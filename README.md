@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rajan Shukla </h2>
+<h2 align="left">Hi 👋! My name is Rajan Shukla :octocat:</h2>
 Passionate about creating intelligent solutions and making a positive impact! 🚀 Explore my GitHub repositories for more exciting projects and contributions!
 <h3 align="left">Work: Senior Software Engineer @LTIMindtree</h3>
 
