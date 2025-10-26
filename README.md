@@ -6,7 +6,7 @@ Passionate about creating intelligent solutions and making a positive impact! �
 
 <h3 align="left">Education:  IIT Mandi</h3>
 
-📞 **Contact:** 9958809505 ⋄ ✉️ [rshukla2k@gmail.com](mailto:rshukla2k@gmail.com)
+ ⋄ ✉️ [rshukla2k@gmail.com](mailto:rshukla2k@gmail.com)
 
 🌐 **Links:** [Portfolio Website](https://rjn32s.github.io/myportfolio/) ⋄   [Medium](https://medium.com/@t21016) ⋄ [Kaggle](https://www.kaggle.com/rajanshukla/competitions) ⋄ [Ahar AI](https://ahar.vercel.app/)
 
